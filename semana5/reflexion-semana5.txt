@@ -1,0 +1,8 @@
+Las APIs permiten que las comunidades compartan información, reportes o alertas de forma rápida, 
+organizada y segura. Al funcionar como un puente entre aplicaciones, facilitan que distintos 
+usuarios envíen datos desde sus teléfonos o computadores y que el servidor los procese de manera 
+uniforme. Esto evita el desorden de usar chats o mensajes dispersos. Además, una API puede 
+clasificar los reportes, registrar fechas, ubicaciones y tipos de alerta, lo que mejora la 
+toma de decisiones colectivas. También permite que la información se muestre en tiempo real 
+en mapas, paneles o listas públicas. Gracias a su estructura abierta, varias herramientas 
+comunitarias pueden conectarse entre sí y fortalecer la participación ciudadana.
